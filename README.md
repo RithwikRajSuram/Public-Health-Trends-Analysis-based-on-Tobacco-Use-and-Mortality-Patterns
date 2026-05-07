@@ -54,3 +54,7 @@ Key fields used:
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+
+## Conclusion
+
+This project demonstrates how Python can be used to analyze public health datasets and generate meaningful insights from survey and mortality data. Through data cleaning, visualization, trend analysis, and outlier detection, the project highlights the role of exploratory data analysis in understanding population health patterns and supporting evidence-based public health reporting.
