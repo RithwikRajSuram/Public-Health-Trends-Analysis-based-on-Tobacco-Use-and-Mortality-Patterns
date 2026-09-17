@@ -1,4 +1,10 @@
 # Public Health Trends Analysis: Tobacco Use and Mortality Patterns
+## 📊 Live Dashboard
+
+[**View the interactive dashboard →**](https://claude.ai/artifact/5sW5w5J1WuJfBDt99yz36p#mortality)
+
+---
+
 
 ## Project Overview
 This project analyzes public health trends using Python by exploring tobacco-use survey data and monthly provisional mortality data from 2020 to 2023. The goal of this project is to identify patterns in tobacco-use indicators, evaluate data quality, examine mortality trends, and visualize relationships between major causes of death.
